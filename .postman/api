@@ -1,0 +1,15 @@
+id = a1c05d87-894c-4bf2-9a02-7f82c0d2c8cf
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"72118ada-3600-4b25-bf9d-4c37c5ac747f","path":"New Collection nested_889219-72118ada-3600-4b25-bf9d-4c37c5ac747f.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
+type = openapi:3
